@@ -11,7 +11,7 @@ It is part of a research effort to develop interpretable AI tools for biomedical
 
 ## Simulation Video
 
-[![Watch the simulation](https://github.com/pamelaFranco/explainable-hypoxia-detection/blob/main/PO2.gif)
+![Watch the simulation](https://github.com/pamelaFranco/explainable-hypoxia-detection/blob/main/PO2.gif)
 
 **Simulation of a tumor vascular architecture and its oxygen distribution.**  
 Each pixel represents 4 µm. The simulation was performed with MATLAB.
