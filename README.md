@@ -69,8 +69,8 @@ Each pixel represents 4 µm. The simulation was performed with MATLAB.
 
 1. **Simulate vascular images** with the Vascusynth binary.
 2. **Run oxygen diffusion model** in MATLAB using the FDM scripts.
-3. **Extract features and labels** from output `.mat` and `.xml` files.
-4. **Train ML models** using the scripts in the `Machine Learning Pipeline`.
+3. **Extract features and labels** from output `.mat` files.
+4. **Train ML models** using the scripts in the `Machine Learning Pipeline` (include feature selection and ML strategy).
 5. **Visualize and interpret** model outputs with LIME.
 
 ---
