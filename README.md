@@ -11,7 +11,7 @@ It is part of a research effort to develop interpretable AI tools for biomedical
 
 ## Simulation Video
 
-[![Watch the simulation](./PO2_thumbnail.png)](https://github.com/pamelaFranco/explainable-hypoxia-detection/blob/main/PO2.mp4)
+[![Watch the simulation](https://github.com/pamelaFranco/explainable-hypoxia-detection/blob/main/PO2.gif)
 
 **Simulation of a tumor vascular architecture and its oxygen distribution.**  
 Each pixel represents 4 µm. The simulation was performed with MATLAB.
@@ -86,29 +86,32 @@ This repository is part of ongoing work presented at:
 ## Authors
 
 **Pamela Franco Leiva, Ph.D.**  
-Energy Transformation Center, Universidad Andrés Bello  
-📧 pamela.franco@unab.cl  
-🌐 [ORCID](https://orcid.org/0000-0001-7629-3653)
+Energy Transformation Center
+Universidad Andrés Bello, Santiago Chile  
+pamela.franco@unab.cl  
+[ORCID](https://orcid.org/0000-0001-7629-3653)
 
 **Cristian Montalba, Ph.D.**  
-iHEALTH – Millennium Institute for Intelligent Healthcare Engineering  
-Pontificia Universidad Católica de Chile  
-🌐 [ORCID](https://orcid.org/0000-0003-3370-0233)
+iHEALTH – Millennium Institute for Intelligent Healthcare Engineering 
+Biomedical Imaging Center and Radiology Department, School of Medicine
+Pontificia Universidad Católica de Chile, Santiago, Chile
+[ORCID](https://orcid.org/0000-0003-3370-0233)
 
 **Raúl Caulier-Cisterna, Ph.D.**  
 Department of Informatics and Computing  
-Universidad Tecnológica Metropolitana  
-🌐 [ORCID](https://orcid.org/0000-0002-0125-485X)
+Universidad Tecnológica Metropolitana, Santiago Chile    
+[ORCID](https://orcid.org/0000-0002-0125-485X)
 
 **Jorge Vergara, Ph.D.**  
 Department of Informatics and Computing  
-Universidad Tecnológica Metropolitana  
-🌐 [ORCID](https://orcid.org/0000-0001-6699-4181)
+Universidad Tecnológica Metropolitana, Santiago Chile    
+[ORCID](https://orcid.org/0000-0001-6699-4181)
 
 **Ignacio Espinoza, Ph.D.** *(Corresponding author)*  
-Physics Institute, Pontificia Universidad Católica de Chile  
-📧 igespino@uc.cl  
-🌐 [ORCID](https://orcid.org/0000-0003-2400-4498)
+Physics Institute
+Pontificia Universidad Católica de Chile, Santiago Chile    
+igespino@uc.cl  
+[ORCID](https://orcid.org/0000-0003-2400-4498)
 
 ---
 
