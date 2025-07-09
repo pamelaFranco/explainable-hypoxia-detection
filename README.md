@@ -118,7 +118,7 @@ igespino@uc.cl
 ## License
 
 MIT License.  
-Please acknowledge the original **Vascusynth** repository if using its components:  
+Please acknowledge the original **VascuSynth** repository if using its components:  
 https://github.com/sfu-mial/VascuSynth
 
 ---
