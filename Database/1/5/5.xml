@@ -1,0 +1,3994 @@
+<gxl><graph id="./image1/tree_structure.xml" edgeids=" true" edgemode=" directed" hypergraph=" false">
+  <node id="n0">
+    <attr name=" nodeType">
+      <string> root node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>0</float>
+        <float>50</float>
+        <float>50</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n26">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>8.42222</float>
+        <float>45.7009</float>
+        <float>49.3917</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n24">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>16.8444</float>
+        <float>39.4611</float>
+        <float>48.7833</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n2">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>19.8667</float>
+        <float>15.1</float>
+        <float>47.5667</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n4">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>20.2844</float>
+        <float>14.89</float>
+        <float>41.2833</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n1">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>22</float>
+        <float>3</float>
+        <float>35</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n8">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>20.0806</float>
+        <float>25.945</float>
+        <float>34.066</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n112">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>17.2896</float>
+        <float>26.3958</float>
+        <float>32.2427</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n90">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>17.3554</float>
+        <float>27.9179</float>
+        <float>29.3481</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n5">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>17</float>
+        <float>37</float>
+        <float>27</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n124">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>8.41557</float>
+        <float>17.6968</float>
+        <float>18.6182</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n91">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>9</float>
+        <float>17</float>
+        <float>19</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n166">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>7.3084</float>
+        <float>17.1209</float>
+        <float>16.2271</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n125">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>3</float>
+        <float>18</float>
+        <float>15</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n167">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>12</float>
+        <float>13</float>
+        <float>11</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n113">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>13</float>
+        <float>25</float>
+        <float>34</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n10">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>28.5856</float>
+        <float>24.9725</float>
+        <float>28.4421</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n58">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>30.2928</float>
+        <float>24.1196</float>
+        <float>25.071</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n9">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>32</float>
+        <float>24</float>
+        <float>25</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n110">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>29.5625</float>
+        <float>24.2695</float>
+        <float>23.4903</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n59">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>29</float>
+        <float>24</float>
+        <float>23</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n111">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>29</float>
+        <float>45</float>
+        <float>5</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n16">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>42.7928</float>
+        <float>17.3862</float>
+        <float>11.8211</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n102">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>48.5112</float>
+        <float>17.7063</float>
+        <float>11.338</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n20">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>54.2297</float>
+        <float>21.5264</float>
+        <float>6.57719</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n30">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>61.6149</float>
+        <float>19.2632</float>
+        <float>7.81082</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n72">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>68.6385</float>
+        <float>16.4661</float>
+        <float>3.90541</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n11">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>69</float>
+        <float>17</float>
+        <float>0</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n76">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>81.1014</float>
+        <float>8.00036</float>
+        <float>15.6012</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n73">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>84</float>
+        <float>5</float>
+        <float>15</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n176">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>84.1606</float>
+        <float>10.915</float>
+        <float>20.6056</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n77">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>84</float>
+        <float>9</float>
+        <float>24</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n177">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>92</float>
+        <float>23</float>
+        <float>20</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n96">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>66.2497</float>
+        <float>27.1687</float>
+        <float>15.7443</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n132">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>68.2221</float>
+        <float>31.1215</float>
+        <float>21.2314</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n32">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>70.8845</float>
+        <float>35.0742</float>
+        <float>28.3284</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n62">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>71.7106</float>
+        <float>30.0227</float>
+        <float>32.5474</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n48">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>75.7052</float>
+        <float>31.308</float>
+        <float>48.3839</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n44">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>75.9231</float>
+        <float>27.5419</float>
+        <float>54.6307</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n174">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>71.2266</float>
+        <float>22.8011</float>
+        <float>57.3153</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n31">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>69</float>
+        <float>23</float>
+        <float>60</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n175">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>70</float>
+        <float>2</float>
+        <float>46</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n50">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>85.86</float>
+        <float>31.4662</float>
+        <float>65.6042</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n54">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>92.6587</float>
+        <float>28.6866</float>
+        <float>64.1199</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n45">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>94</float>
+        <float>30</float>
+        <float>64</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n70">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>94.8293</float>
+        <float>15.8433</float>
+        <float>64.715</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n98">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>95.9147</float>
+        <float>8.06686</float>
+        <float>67.3735</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n55">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>97</float>
+        <float>3</float>
+        <float>65</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n99">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>96</float>
+        <float>6</float>
+        <float>74</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n71">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>90</float>
+        <float>15</float>
+        <float>70</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n56">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>81.5277</float>
+        <float>39.9889</float>
+        <float>78.5091</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n88">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>80.7301</float>
+        <float>38.9607</float>
+        <float>79.7883</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n51">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>81</float>
+        <float>39</float>
+        <float>80</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n142">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>76.5911</float>
+        <float>30.405</float>
+        <float>92.223</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n89">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>69</float>
+        <float>23</float>
+        <float>92</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n143">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>80</float>
+        <float>31</float>
+        <float>98</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n118">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>81.2638</float>
+        <float>49.4944</float>
+        <float>79.246</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n57">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>81</float>
+        <float>59</float>
+        <float>80</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n180">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>84.3317</float>
+        <float>56.1468</float>
+        <float>70.6568</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n119">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>84</float>
+        <float>56</float>
+        <float>70</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n181">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>91</float>
+        <float>65</float>
+        <float>71</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n66">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>78.196</float>
+        <float>31.4974</float>
+        <float>49.6919</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n49">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>79</float>
+        <float>30</float>
+        <float>51</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n68">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>86.0017</float>
+        <float>38.9423</float>
+        <float>50.1203</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n134">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>86.1105</float>
+        <float>43.0647</float>
+        <float>50.0548</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n67">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>88</float>
+        <float>46</float>
+        <float>49</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n135">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>76</float>
+        <float>49</float>
+        <float>57</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n69">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>87</float>
+        <float>39</float>
+        <float>51</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n106">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>70.9673</float>
+        <float>26.9593</float>
+        <float>30.9977</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n63">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>71</float>
+        <float>27</float>
+        <float>31</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n188">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>69.2912</float>
+        <float>25.2617</float>
+        <float>29.345</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n107">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>71</float>
+        <float>23</float>
+        <float>26</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n189">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>59</float>
+        <float>25</float>
+        <float>32</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n92">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>69.9891</float>
+        <float>45.4658</float>
+        <float>26.1258</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n52">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>71.8133</float>
+        <float>52.798</float>
+        <float>22.9034</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n86">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>73.4811</float>
+        <float>64.6891</float>
+        <float>17.9559</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n116">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>73.1116</float>
+        <float>72.2192</float>
+        <float>20.8863</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n34">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>72.7421</float>
+        <float>76.5802</float>
+        <float>17.4784</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n114">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>72.7376</float>
+        <float>77.6566</float>
+        <float>16.7392</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n130">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>90.9988</float>
+        <float>96.4583</float>
+        <float>16.3696</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n33">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>91</float>
+        <float>97</float>
+        <float>16</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n160">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>93.8907</float>
+        <float>96.6349</float>
+        <float>21.8223</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n131">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>98</float>
+        <float>96</float>
+        <float>22</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n161">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>90</float>
+        <float>98</float>
+        <float>28</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n115">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>70</float>
+        <float>75</float>
+        <float>13</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n194">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>65.1282</float>
+        <float>83.6153</float>
+        <float>17.1457</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n128">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>62.3497</float>
+        <float>85.815</float>
+        <float>10.7688</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n40">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>45.4509</float>
+        <float>85.2901</float>
+        <float>4.05913</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n35">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>40</float>
+        <float>94</float>
+        <float>0</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n41">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>42</float>
+        <float>84</float>
+        <float>1</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n129">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>64</float>
+        <float>89</float>
+        <float>10</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n195">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>57</float>
+        <float>90</float>
+        <float>34</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n126">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>76.0558</float>
+        <float>71.2198</float>
+        <float>33.2606</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n192">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>74.4207</float>
+        <float>74.6099</float>
+        <float>44.7018</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n117">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>79</float>
+        <float>78</float>
+        <float>52</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n193">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>56</float>
+        <float>78</float>
+        <float>53</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n127">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>76</float>
+        <float>69</float>
+        <float>32</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n154">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>81.2823</float>
+        <float>62.1776</float>
+        <float>8.97796</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n87">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>88</float>
+        <float>64</float>
+        <float>0</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n155">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>91</float>
+        <float>47</float>
+        <float>12</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n53">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>73</float>
+        <float>49</float>
+        <float>24</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n196">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>64.1155</float>
+        <float>46.6818</float>
+        <float>27.1328</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n93">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>60</float>
+        <float>52</float>
+        <float>34</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n197">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>63</float>
+        <float>46</float>
+        <float>26</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n133">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>68</float>
+        <float>31</float>
+        <float>21</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n97">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>69</float>
+        <float>34</float>
+        <float>5</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n21">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>52</float>
+        <float>28</float>
+        <float>9</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n150">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>50.7556</float>
+        <float>11.2087</float>
+        <float>21.1727</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n103">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>53</float>
+        <float>9</float>
+        <float>21</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n151">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>45</float>
+        <float>13</float>
+        <float>33</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n100">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>40.963</float>
+        <float>15.2598</float>
+        <float>9.97719</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n17">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>41</float>
+        <float>15</float>
+        <float>10</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n108">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>38.9082</float>
+        <float>12.0566</float>
+        <float>4.91526</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n101">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>40</float>
+        <float>12</float>
+        <float>3</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n109">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>27</float>
+        <float>3</float>
+        <float>7</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n120">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>29.8099</float>
+        <float>18.939</float>
+        <float>54.5927</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n6">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>28.9333</float>
+        <float>20.2811</float>
+        <float>63.2833</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n138">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>31.7573</float>
+        <float>13.1565</float>
+        <float>70.8335</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n12">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>34.7834</float>
+        <float>6.03196</float>
+        <float>78.3837</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n36">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>36.6587</float>
+        <float>3.51598</float>
+        <float>78.6919</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n3">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>38</float>
+        <float>1</float>
+        <float>79</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n37">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>46</float>
+        <float>0</float>
+        <float>73</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n14">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>36.3917</float>
+        <float>6.47933</float>
+        <float>80.3018</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n18">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>35.6074</float>
+        <float>8.31374</float>
+        <float>87.1509</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n13">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>38</float>
+        <float>3</float>
+        <float>94</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n22">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>28.6989</float>
+        <float>12.4533</float>
+        <float>86.7731</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n19">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>29</float>
+        <float>22</float>
+        <float>90</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n42">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>19.3082</float>
+        <float>7.13162</float>
+        <float>82.9403</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n23">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>19</float>
+        <float>7</float>
+        <float>83</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n164">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>13.1701</float>
+        <float>9.18481</float>
+        <float>76.9861</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n43">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>13</float>
+        <float>9</float>
+        <float>77</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n165">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>11</float>
+        <float>14</float>
+        <float>68</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n186">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>46.4232</float>
+        <float>19.2363</float>
+        <float>74.4482</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n28">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>46.3349</float>
+        <float>26.5442</float>
+        <float>68.5945</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n38">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>53.4938</float>
+        <float>62.6282</float>
+        <float>70.5727</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n15">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>53</float>
+        <float>63</float>
+        <float>70</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n64">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>54.0153</float>
+        <float>69.8141</float>
+        <float>70.2864</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n39">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>55</float>
+        <float>77</float>
+        <float>70</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n65">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>51</float>
+        <float>70</float>
+        <float>73</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n152">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>50.3254</float>
+        <float>18.6668</float>
+        <float>58.8499</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n29">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>53</float>
+        <float>20</float>
+        <float>57</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n153">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>47</float>
+        <float>12</float>
+        <float>57</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n187">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>49</float>
+        <float>20</float>
+        <float>75</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n139">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>26</float>
+        <float>16</float>
+        <float>74</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n46">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>32.4667</float>
+        <float>52.1406</float>
+        <float>72.1424</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n60">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>28.3959</float>
+        <float>66.1245</float>
+        <float>64.2879</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n74">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>31.2249</float>
+        <float>80.4141</float>
+        <float>71.5497</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n184">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>32.0727</float>
+        <float>82.7693</float>
+        <float>71.4667</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n140">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>35.026</float>
+        <float>83.6206</float>
+        <float>73.1884</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n7">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>36</float>
+        <float>84</float>
+        <float>72</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n141">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>44</float>
+        <float>96</float>
+        <float>90</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n185">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>27</float>
+        <float>90</float>
+        <float>66</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n78">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>12.2071</float>
+        <float>80.7882</float>
+        <float>84.7207</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n156">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>9.60355</float>
+        <float>88.9515</float>
+        <float>84.8458</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n75">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>7</float>
+        <float>93</float>
+        <float>90</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n157">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>8</float>
+        <float>97</float>
+        <float>72</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n198">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>8.39867</float>
+        <float>74.614</float>
+        <float>84.4548</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n122">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>3.15088</float>
+        <float>71.113</float>
+        <float>84.1888</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n146">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>3.93017</float>
+        <float>66.7744</float>
+        <float>87.3067</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n79">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>3</float>
+        <float>65</float>
+        <float>89</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n147">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>9</float>
+        <float>64</float>
+        <float>89</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n123">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>1</float>
+        <float>71</float>
+        <float>82</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n199">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>13</float>
+        <float>70</float>
+        <float>82</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n82">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>17.4781</float>
+        <float>74.4807</float>
+        <float>56.2433</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n170">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>12.5795</float>
+        <float>72.0006</float>
+        <float>48.7272</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n144">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>10.4589</float>
+        <float>69.0303</float>
+        <float>41.2112</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n61">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>8</float>
+        <float>67</float>
+        <float>41</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n148">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>14.1995</float>
+        <float>73.9184</float>
+        <float>31.1056</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n178">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>16.3072</float>
+        <float>74.3555</float>
+        <float>30.8081</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n145">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>20</float>
+        <float>74</float>
+        <float>21</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n179">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>19</float>
+        <float>76</float>
+        <float>34</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n172">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>8.67367</float>
+        <float>80.2741</float>
+        <float>29.7193</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n149">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>6</float>
+        <float>85</float>
+        <float>32</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n190">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>7.36458</float>
+        <float>81.0148</float>
+        <float>27.3207</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n173">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>7</float>
+        <float>81</float>
+        <float>27</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n191">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>4</float>
+        <float>98</float>
+        <float>12</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n171">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>1</float>
+        <float>81</float>
+        <float>50</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n136">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>18.2121</float>
+        <float>80.9735</float>
+        <float>55.8952</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n83">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>15</float>
+        <float>85</float>
+        <float>59</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n162">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>23.9259</float>
+        <float>84.1467</float>
+        <float>51.2877</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n182">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>25.463</float>
+        <float>84.128</float>
+        <float>48.2258</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n137">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>27</float>
+        <float>86</float>
+        <float>48</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n183">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>24</float>
+        <float>79</float>
+        <float>43</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n163">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>26</float>
+        <float>86</float>
+        <float>50</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n84">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>16.8459</float>
+        <float>50.0703</float>
+        <float>83.3337</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n104">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>17.423</float>
+        <float>47.2643</float>
+        <float>85.3335</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n47">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>18</float>
+        <float>48</float>
+        <float>93</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n158">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>18.5094</float>
+        <float>43.6693</float>
+        <float>83.7678</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n105">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>18</float>
+        <float>43</float>
+        <float>83</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n159">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>27</float>
+        <float>39</float>
+        <float>85</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n85">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>5</float>
+        <float>52</float>
+        <float>78</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n168">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>40.0147</float>
+        <float>19.9805</float>
+        <float>49.7415</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n121">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>40</float>
+        <float>20</float>
+        <float>50</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n169">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>52</float>
+        <float>30</float>
+        <float>40</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n80">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>20.7163</float>
+        <float>42.0761</float>
+        <float>48.8917</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n25">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>21</float>
+        <float>42</float>
+        <float>49</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n94">
+    <attr name=" nodeType">
+      <string> bifurication </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>25.0739</float>
+        <float>47.9925</float>
+        <float>48.9458</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n81">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>25</float>
+        <float>48</float>
+        <float>49</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n95">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>41</float>
+        <float>46</float>
+        <float>52</float>
+      </tup>
+    </attr>
+  </node>
+  <node id="n27">
+    <attr name=" nodeType">
+      <string> terminal node </string>
+    </attr>
+    <attr name=" position">
+      <tup>
+        <float>2</float>
+        <float>55</float>
+        <float>47</float>
+      </tup>
+    </attr>
+  </node>
+  <edge id="e26" to="n26" from="n0">
+    <attr name=" flow">
+      <float>8.33</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.211926</float>
+    </attr>
+  </edge>
+  <edge id="e24" to="n24" from="n26">
+    <attr name=" flow">
+      <float>8.2467</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.210758</float>
+    </attr>
+  </edge>
+  <edge id="e2" to="n2" from="n24">
+    <attr name=" flow">
+      <float>7.9968</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.208311</float>
+    </attr>
+  </edge>
+  <edge id="e4" to="n4" from="n2">
+    <attr name=" flow">
+      <float>4.6648</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.152719</float>
+    </attr>
+  </edge>
+  <edge id="e1" to="n1" from="n4">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0170402</float>
+    </attr>
+  </edge>
+  <edge id="e8" to="n8" from="n4">
+    <attr name=" flow">
+      <float>4.5815</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.151074</float>
+    </attr>
+  </edge>
+  <edge id="e112" to="n112" from="n8">
+    <attr name=" flow">
+      <float>0.4165</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0377585</float>
+    </attr>
+  </edge>
+  <edge id="e90" to="n90" from="n112">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0343974</float>
+    </attr>
+  </edge>
+  <edge id="e5" to="n5" from="n90">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0160412</float>
+    </attr>
+  </edge>
+  <edge id="e124" to="n124" from="n90">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0292444</float>
+    </attr>
+  </edge>
+  <edge id="e91" to="n91" from="n124">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0108645</float>
+    </attr>
+  </edge>
+  <edge id="e166" to="n166" from="n124">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0263995</float>
+    </attr>
+  </edge>
+  <edge id="e125" to="n125" from="n166">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0166302</float>
+    </attr>
+  </edge>
+  <edge id="e167" to="n167" from="n166">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0192192</float>
+    </attr>
+  </edge>
+  <edge id="e113" to="n113" from="n112">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0133785</float>
+    </attr>
+  </edge>
+  <edge id="e10" to="n10" from="n8">
+    <attr name=" flow">
+      <float>4.165</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.144023</float>
+    </attr>
+  </edge>
+  <edge id="e58" to="n58" from="n10">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0269343</float>
+    </attr>
+  </edge>
+  <edge id="e9" to="n9" from="n58">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0105912</float>
+    </attr>
+  </edge>
+  <edge id="e110" to="n110" from="n58">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0240185</float>
+    </attr>
+  </edge>
+  <edge id="e59" to="n59" from="n110">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00891455</float>
+    </attr>
+  </edge>
+  <edge id="e111" to="n111" from="n110">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0216862</float>
+    </attr>
+  </edge>
+  <edge id="e16" to="n16" from="n10">
+    <attr name=" flow">
+      <float>3.9151</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.140067</float>
+    </attr>
+  </edge>
+  <edge id="e102" to="n102" from="n16">
+    <attr name=" flow">
+      <float>3.6652</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.136388</float>
+    </attr>
+  </edge>
+  <edge id="e20" to="n20" from="n102">
+    <attr name=" flow">
+      <float>3.4986</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.132846</float>
+    </attr>
+  </edge>
+  <edge id="e30" to="n30" from="n20">
+    <attr name=" flow">
+      <float>3.4153</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.131428</float>
+    </attr>
+  </edge>
+  <edge id="e72" to="n72" from="n30">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0361758</float>
+    </attr>
+  </edge>
+  <edge id="e11" to="n11" from="n72">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0131451</float>
+    </attr>
+  </edge>
+  <edge id="e76" to="n76" from="n72">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0327998</float>
+    </attr>
+  </edge>
+  <edge id="e73" to="n73" from="n76">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0150054</float>
+    </attr>
+  </edge>
+  <edge id="e176" to="n176" from="n76">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0280642</float>
+    </attr>
+  </edge>
+  <edge id="e77" to="n77" from="n176">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0158363</float>
+    </attr>
+  </edge>
+  <edge id="e177" to="n177" from="n176">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.021958</float>
+    </attr>
+  </edge>
+  <edge id="e96" to="n96" from="n30">
+    <attr name=" flow">
+      <float>3.0821</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.124104</float>
+    </attr>
+  </edge>
+  <edge id="e132" to="n132" from="n96">
+    <attr name=" flow">
+      <float>2.9988</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.122135</float>
+    </attr>
+  </edge>
+  <edge id="e32" to="n32" from="n132">
+    <attr name=" flow">
+      <float>2.9155</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.121748</float>
+    </attr>
+  </edge>
+  <edge id="e62" to="n62" from="n32">
+    <attr name=" flow">
+      <float>1.5827</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0837581</float>
+    </attr>
+  </edge>
+  <edge id="e48" to="n48" from="n62">
+    <attr name=" flow">
+      <float>1.3328</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0784558</float>
+    </attr>
+  </edge>
+  <edge id="e44" to="n44" from="n48">
+    <attr name=" flow">
+      <float>0.9996</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0690759</float>
+    </attr>
+  </edge>
+  <edge id="e174" to="n174" from="n44">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0264825</float>
+    </attr>
+  </edge>
+  <edge id="e31" to="n31" from="n174">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0134903</float>
+    </attr>
+  </edge>
+  <edge id="e175" to="n175" from="n174">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0217743</float>
+    </attr>
+  </edge>
+  <edge id="e50" to="n50" from="n44">
+    <attr name=" flow">
+      <float>0.833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0619468</float>
+    </attr>
+  </edge>
+  <edge id="e54" to="n54" from="n50">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0364974</float>
+    </attr>
+  </edge>
+  <edge id="e45" to="n45" from="n54">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0115031</float>
+    </attr>
+  </edge>
+  <edge id="e70" to="n70" from="n54">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0338849</float>
+    </attr>
+  </edge>
+  <edge id="e98" to="n98" from="n70">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0277318</float>
+    </attr>
+  </edge>
+  <edge id="e55" to="n55" from="n98">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0183992</float>
+    </attr>
+  </edge>
+  <edge id="e99" to="n99" from="n98">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0193289</float>
+    </attr>
+  </edge>
+  <edge id="e71" to="n71" from="n70">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0174489</float>
+    </attr>
+  </edge>
+  <edge id="e56" to="n56" from="n50">
+    <attr name=" flow">
+      <float>0.4998</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0472484</float>
+    </attr>
+  </edge>
+  <edge id="e88" to="n88" from="n56">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0305837</float>
+    </attr>
+  </edge>
+  <edge id="e51" to="n51" from="n88">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00769005</float>
+    </attr>
+  </edge>
+  <edge id="e142" to="n142" from="n88">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0291405</float>
+    </attr>
+  </edge>
+  <edge id="e89" to="n89" from="n142">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0209249</float>
+    </attr>
+  </edge>
+  <edge id="e143" to="n143" from="n142">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0186782</float>
+    </attr>
+  </edge>
+  <edge id="e118" to="n118" from="n56">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0336528</float>
+    </attr>
+  </edge>
+  <edge id="e57" to="n57" from="n118">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0184298</float>
+    </attr>
+  </edge>
+  <edge id="e180" to="n180" from="n118">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.026754</float>
+    </attr>
+  </edge>
+  <edge id="e119" to="n119" from="n180">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0118065</float>
+    </attr>
+  </edge>
+  <edge id="e181" to="n181" from="n180">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0231488</float>
+    </attr>
+  </edge>
+  <edge id="e66" to="n66" from="n48">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0325131</float>
+    </attr>
+  </edge>
+  <edge id="e49" to="n49" from="n66">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0113666</float>
+    </attr>
+  </edge>
+  <edge id="e68" to="n68" from="n66">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0296905</float>
+    </attr>
+  </edge>
+  <edge id="e134" to="n134" from="n68">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0267531</float>
+    </attr>
+  </edge>
+  <edge id="e67" to="n67" from="n134">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0150701</float>
+    </attr>
+  </edge>
+  <edge id="e135" to="n135" from="n134">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0209525</float>
+    </attr>
+  </edge>
+  <edge id="e69" to="n69" from="n68">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0111296</float>
+    </attr>
+  </edge>
+  <edge id="e106" to="n106" from="n62">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0247037</float>
+    </attr>
+  </edge>
+  <edge id="e63" to="n63" from="n106">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0045951</float>
+    </attr>
+  </edge>
+  <edge id="e188" to="n188" from="n106">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0240316</float>
+    </attr>
+  </edge>
+  <edge id="e107" to="n107" from="n188">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0144778</float>
+    </attr>
+  </edge>
+  <edge id="e189" to="n189" from="n188">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0180662</float>
+    </attr>
+  </edge>
+  <edge id="e92" to="n92" from="n32">
+    <attr name=" flow">
+      <float>1.3328</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0819068</float>
+    </attr>
+  </edge>
+  <edge id="e52" to="n52" from="n92">
+    <attr name=" flow">
+      <float>1.1662</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0775003</float>
+    </attr>
+  </edge>
+  <edge id="e86" to="n86" from="n52">
+    <attr name=" flow">
+      <float>1.0829</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.075734</float>
+    </attr>
+  </edge>
+  <edge id="e116" to="n116" from="n86">
+    <attr name=" flow">
+      <float>0.9163</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0680801</float>
+    </attr>
+  </edge>
+  <edge id="e34" to="n34" from="n116">
+    <attr name=" flow">
+      <float>0.6664</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0564918</float>
+    </attr>
+  </edge>
+  <edge id="e114" to="n114" from="n34">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0361368</float>
+    </attr>
+  </edge>
+  <edge id="e130" to="n130" from="n114">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0321277</float>
+    </attr>
+  </edge>
+  <edge id="e33" to="n33" from="n130">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.010671</float>
+    </attr>
+  </edge>
+  <edge id="e160" to="n160" from="n130">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0295926</float>
+    </attr>
+  </edge>
+  <edge id="e131" to="n131" from="n160">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0186405</float>
+    </attr>
+  </edge>
+  <edge id="e161" to="n161" from="n160">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0215449</float>
+    </attr>
+  </edge>
+  <edge id="e115" to="n115" from="n114">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0143956</float>
+    </attr>
+  </edge>
+  <edge id="e194" to="n194" from="n34">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0406314</float>
+    </attr>
+  </edge>
+  <edge id="e128" to="n128" from="n194">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0335505</float>
+    </attr>
+  </edge>
+  <edge id="e40" to="n40" from="n128">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0294754</float>
+    </attr>
+  </edge>
+  <edge id="e35" to="n35" from="n40">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0220475</float>
+    </attr>
+  </edge>
+  <edge id="e41" to="n41" from="n40">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0178894</float>
+    </attr>
+  </edge>
+  <edge id="e129" to="n129" from="n128">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0140201</float>
+    </attr>
+  </edge>
+  <edge id="e195" to="n195" from="n194">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0204873</float>
+    </attr>
+  </edge>
+  <edge id="e126" to="n126" from="n116">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.033915</float>
+    </attr>
+  </edge>
+  <edge id="e192" to="n192" from="n126">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0306393</float>
+    </attr>
+  </edge>
+  <edge id="e117" to="n117" from="n192">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.018711</float>
+    </attr>
+  </edge>
+  <edge id="e193" to="n193" from="n192">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0228203</float>
+    </attr>
+  </edge>
+  <edge id="e127" to="n127" from="n126">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0125517</float>
+    </attr>
+  </edge>
+  <edge id="e154" to="n154" from="n86">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0287128</float>
+    </attr>
+  </edge>
+  <edge id="e87" to="n87" from="n154">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0183508</float>
+    </attr>
+  </edge>
+  <edge id="e155" to="n155" from="n154">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0206664</float>
+    </attr>
+  </edge>
+  <edge id="e53" to="n53" from="n52">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0130784</float>
+    </attr>
+  </edge>
+  <edge id="e196" to="n196" from="n92">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0221178</float>
+    </attr>
+  </edge>
+  <edge id="e93" to="n93" from="n196">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0179088</float>
+    </attr>
+  </edge>
+  <edge id="e197" to="n197" from="n196">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0116647</float>
+    </attr>
+  </edge>
+  <edge id="e133" to="n133" from="n132">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00692168</float>
+    </attr>
+  </edge>
+  <edge id="e97" to="n97" from="n96">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0171505</float>
+    </attr>
+  </edge>
+  <edge id="e21" to="n21" from="n20">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.014748</float>
+    </attr>
+  </edge>
+  <edge id="e150" to="n150" from="n102">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.02473</float>
+    </attr>
+  </edge>
+  <edge id="e103" to="n103" from="n150">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0136633</float>
+    </attr>
+  </edge>
+  <edge id="e151" to="n151" from="n150">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0195708</float>
+    </attr>
+  </edge>
+  <edge id="e100" to="n100" from="n16">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0255553</float>
+    </attr>
+  </edge>
+  <edge id="e17" to="n17" from="n100">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00668643</float>
+    </attr>
+  </edge>
+  <edge id="e108" to="n108" from="n100">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.024258</float>
+    </attr>
+  </edge>
+  <edge id="e101" to="n101" from="n108">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0123373</float>
+    </attr>
+  </edge>
+  <edge id="e109" to="n109" from="n108">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0199588</float>
+    </attr>
+  </edge>
+  <edge id="e120" to="n120" from="n2">
+    <attr name=" flow">
+      <float>3.332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.130021</float>
+    </attr>
+  </edge>
+  <edge id="e6" to="n6" from="n120">
+    <attr name=" flow">
+      <float>3.1654</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.126696</float>
+    </attr>
+  </edge>
+  <edge id="e138" to="n138" from="n6">
+    <attr name=" flow">
+      <float>1.1662</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0716612</float>
+    </attr>
+  </edge>
+  <edge id="e12" to="n12" from="n138">
+    <attr name=" flow">
+      <float>1.0829</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0693264</float>
+    </attr>
+  </edge>
+  <edge id="e36" to="n36" from="n12">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0222789</float>
+    </attr>
+  </edge>
+  <edge id="e3" to="n3" from="n36">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0124088</float>
+    </attr>
+  </edge>
+  <edge id="e37" to="n37" from="n36">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0175559</float>
+    </attr>
+  </edge>
+  <edge id="e14" to="n14" from="n12">
+    <attr name=" flow">
+      <float>0.9163</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0641815</float>
+    </attr>
+  </edge>
+  <edge id="e18" to="n18" from="n14">
+    <attr name=" flow">
+      <float>0.4165</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0396105</float>
+    </attr>
+  </edge>
+  <edge id="e13" to="n13" from="n18">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0162047</float>
+    </attr>
+  </edge>
+  <edge id="e22" to="n22" from="n18">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0349893</float>
+    </attr>
+  </edge>
+  <edge id="e19" to="n19" from="n22">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0174434</float>
+    </attr>
+  </edge>
+  <edge id="e42" to="n42" from="n22">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0290249</float>
+    </attr>
+  </edge>
+  <edge id="e23" to="n23" from="n42">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00866136</float>
+    </attr>
+  </edge>
+  <edge id="e164" to="n164" from="n42">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0271473</float>
+    </attr>
+  </edge>
+  <edge id="e43" to="n43" from="n164">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00972721</float>
+    </attr>
+  </edge>
+  <edge id="e165" to="n165" from="n164">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0246795</float>
+    </attr>
+  </edge>
+  <edge id="e186" to="n186" from="n14">
+    <attr name=" flow">
+      <float>0.4998</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0474453</float>
+    </attr>
+  </edge>
+  <edge id="e28" to="n28" from="n186">
+    <attr name=" flow">
+      <float>0.4165</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.045118</float>
+    </attr>
+  </edge>
+  <edge id="e38" to="n38" from="n28">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0349134</float>
+    </attr>
+  </edge>
+  <edge id="e15" to="n15" from="n38">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0121399</float>
+    </attr>
+  </edge>
+  <edge id="e64" to="n64" from="n38">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0319128</float>
+    </attr>
+  </edge>
+  <edge id="e39" to="n39" from="n64">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0232382</float>
+    </attr>
+  </edge>
+  <edge id="e65" to="n65" from="n64">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0200975</float>
+    </attr>
+  </edge>
+  <edge id="e152" to="n152" from="n28">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0259571</float>
+    </attr>
+  </edge>
+  <edge id="e29" to="n29" from="n152">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0158819</float>
+    </attr>
+  </edge>
+  <edge id="e153" to="n153" from="n152">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0193072</float>
+    </attr>
+  </edge>
+  <edge id="e187" to="n187" from="n186">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0121845</float>
+    </attr>
+  </edge>
+  <edge id="e139" to="n139" from="n138">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0147165</float>
+    </attr>
+  </edge>
+  <edge id="e46" to="n46" from="n6">
+    <attr name=" flow">
+      <float>1.9992</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.099</float>
+    </attr>
+  </edge>
+  <edge id="e60" to="n60" from="n46">
+    <attr name=" flow">
+      <float>1.666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0894877</float>
+    </attr>
+  </edge>
+  <edge id="e74" to="n74" from="n60">
+    <attr name=" flow">
+      <float>0.7497</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0588531</float>
+    </attr>
+  </edge>
+  <edge id="e184" to="n184" from="n74">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0312085</float>
+    </attr>
+  </edge>
+  <edge id="e140" to="n140" from="n184">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0248878</float>
+    </attr>
+  </edge>
+  <edge id="e7" to="n7" from="n140">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0110441</float>
+    </attr>
+  </edge>
+  <edge id="e141" to="n141" from="n140">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0214983</float>
+    </attr>
+  </edge>
+  <edge id="e185" to="n185" from="n184">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.016987</float>
+    </attr>
+  </edge>
+  <edge id="e78" to="n78" from="n74">
+    <attr name=" flow">
+      <float>0.4998</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0475326</float>
+    </attr>
+  </edge>
+  <edge id="e156" to="n156" from="n78">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0282475</float>
+    </attr>
+  </edge>
+  <edge id="e75" to="n75" from="n156">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0173096</float>
+    </attr>
+  </edge>
+  <edge id="e157" to="n157" from="n156">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0209882</float>
+    </attr>
+  </edge>
+  <edge id="e198" to="n198" from="n78">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0360558</float>
+    </attr>
+  </edge>
+  <edge id="e122" to="n122" from="n198">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0306894</float>
+    </attr>
+  </edge>
+  <edge id="e146" to="n146" from="n122">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0258897</float>
+    </attr>
+  </edge>
+  <edge id="e79" to="n79" from="n146">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0157246</float>
+    </attr>
+  </edge>
+  <edge id="e147" to="n147" from="n146">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0193558</float>
+    </attr>
+  </edge>
+  <edge id="e123" to="n123" from="n122">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0146349</float>
+    </attr>
+  </edge>
+  <edge id="e199" to="n199" from="n198">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0167579</float>
+    </attr>
+  </edge>
+  <edge id="e82" to="n82" from="n60">
+    <attr name=" flow">
+      <float>0.9163</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0628679</float>
+    </attr>
+  </edge>
+  <edge id="e170" to="n170" from="n82">
+    <attr name=" flow">
+      <float>0.5831</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.050484</float>
+    </attr>
+  </edge>
+  <edge id="e144" to="n144" from="n170">
+    <attr name=" flow">
+      <float>0.4998</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0456607</float>
+    </attr>
+  </edge>
+  <edge id="e61" to="n61" from="n144">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0129939</float>
+    </attr>
+  </edge>
+  <edge id="e148" to="n148" from="n144">
+    <attr name=" flow">
+      <float>0.4165</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0429549</float>
+    </attr>
+  </edge>
+  <edge id="e178" to="n178" from="n148">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0251127</float>
+    </attr>
+  </edge>
+  <edge id="e145" to="n145" from="n178">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0188084</float>
+    </attr>
+  </edge>
+  <edge id="e179" to="n179" from="n178">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.015213</float>
+    </attr>
+  </edge>
+  <edge id="e172" to="n172" from="n148">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0329208</float>
+    </attr>
+  </edge>
+  <edge id="e149" to="n149" from="n172">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0168578</float>
+    </attr>
+  </edge>
+  <edge id="e190" to="n190" from="n172">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0270079</float>
+    </attr>
+  </edge>
+  <edge id="e173" to="n173" from="n190">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00939771</float>
+    </attr>
+  </edge>
+  <edge id="e191" to="n191" from="n190">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0246837</float>
+    </attr>
+  </edge>
+  <edge id="e171" to="n171" from="n170">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0185758</float>
+    </attr>
+  </edge>
+  <edge id="e136" to="n136" from="n82">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0337421</float>
+    </attr>
+  </edge>
+  <edge id="e83" to="n83" from="n136">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.015173</float>
+    </attr>
+  </edge>
+  <edge id="e162" to="n162" from="n136">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0290287</float>
+    </attr>
+  </edge>
+  <edge id="e182" to="n182" from="n162">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0243859</float>
+    </attr>
+  </edge>
+  <edge id="e137" to="n137" from="n182">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0141717</float>
+    </attr>
+  </edge>
+  <edge id="e183" to="n183" from="n182">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0187576</float>
+    </attr>
+  </edge>
+  <edge id="e163" to="n163" from="n162">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0140043</float>
+    </attr>
+  </edge>
+  <edge id="e84" to="n84" from="n46">
+    <attr name=" flow">
+      <float>0.3332</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0365374</float>
+    </attr>
+  </edge>
+  <edge id="e104" to="n104" from="n84">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0299594</float>
+    </attr>
+  </edge>
+  <edge id="e47" to="n47" from="n104">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0169461</float>
+    </attr>
+  </edge>
+  <edge id="e158" to="n158" from="n104">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0234097</float>
+    </attr>
+  </edge>
+  <edge id="e105" to="n105" from="n158">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0114372</float>
+    </attr>
+  </edge>
+  <edge id="e159" to="n159" from="n158">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0195728</float>
+    </attr>
+  </edge>
+  <edge id="e85" to="n85" from="n84">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0187325</float>
+    </attr>
+  </edge>
+  <edge id="e168" to="n168" from="n120">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0233749</float>
+    </attr>
+  </edge>
+  <edge id="e121" to="n121" from="n168">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00746458</float>
+    </attr>
+  </edge>
+  <edge id="e169" to="n169" from="n168">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0216604</float>
+    </attr>
+  </edge>
+  <edge id="e80" to="n80" from="n24">
+    <attr name=" flow">
+      <float>0.2499</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.024515</float>
+    </attr>
+  </edge>
+  <edge id="e25" to="n25" from="n80">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00709033</float>
+    </attr>
+  </edge>
+  <edge id="e94" to="n94" from="n80">
+    <attr name=" flow">
+      <float>0.1666</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0230182</float>
+    </attr>
+  </edge>
+  <edge id="e81" to="n81" from="n94">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.00598825</float>
+    </attr>
+  </edge>
+  <edge id="e95" to="n95" from="n94">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0218619</float>
+    </attr>
+  </edge>
+  <edge id="e27" to="n27" from="n26">
+    <attr name=" flow">
+      <float>0.0833</float>
+    </attr>
+    <attr name=" radius">
+      <float>0.0163105</float>
+    </attr>
+  </edge>
+</graph></gxl>

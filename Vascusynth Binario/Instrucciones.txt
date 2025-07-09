@@ -1,0 +1,14 @@
+VascuSynth Etiquetado Ubuntu Linux 
+
+1- Extraer VascuSynthEtiquetado 
+2- Abrir el Terminal 
+3- Ingresar cd VascuSynthEtiquetado
+4- sudo apt-get install libinsighttoolkit5-dev
+5-  git clone -b v5.4.0 https://github.com/InsightSoftwareConsortium/ITK ITK-5.4.0
+6-  cd ITK-5.4.0
+7-  cmake -B build
+8-  cd build && make -j32 && cd ..
+9-  cd .. 
+10- cmake . 
+11- make -j32
+12- ./VascuSynth paramFiles.txt imageNames.txt 0.04
