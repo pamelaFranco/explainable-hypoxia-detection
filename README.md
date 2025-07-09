@@ -86,29 +86,29 @@ This repository is part of ongoing work presented at:
 ## Authors
 
 **Pamela Franco Leiva, Ph.D.**  
-Energy Transformation Center
+Energy Transformation Center,
 Universidad Andrés Bello, Santiago Chile  
 pamela.franco@unab.cl  
 [ORCID](https://orcid.org/0000-0001-7629-3653)
 
-**Cristian Montalba, Ph.D.**  
-iHEALTH – Millennium Institute for Intelligent Healthcare Engineering 
-Biomedical Imaging Center and Radiology Department, School of Medicine
+**Cristian Montalba, B.Sc.**  
+iHEALTH – Millennium Institute for Intelligent Healthcare Engineering, 
+Biomedical Imaging Center, and Radiology Department, School of Medicine,
 Pontificia Universidad Católica de Chile, Santiago, Chile
 [ORCID](https://orcid.org/0000-0003-3370-0233)
 
 **Raúl Caulier-Cisterna, Ph.D.**  
-Department of Informatics and Computing  
+Department of Informatics and Computing,  
 Universidad Tecnológica Metropolitana, Santiago Chile    
 [ORCID](https://orcid.org/0000-0002-0125-485X)
 
 **Jorge Vergara, Ph.D.**  
-Department of Informatics and Computing  
+Department of Informatics and Computing,  
 Universidad Tecnológica Metropolitana, Santiago Chile    
 [ORCID](https://orcid.org/0000-0001-6699-4181)
 
 **Ignacio Espinoza, Ph.D.** *(Corresponding author)*  
-Physics Institute
+Physics Institute,
 Pontificia Universidad Católica de Chile, Santiago Chile    
 igespino@uc.cl  
 [ORCID](https://orcid.org/0000-0003-2400-4498)
