@@ -149,19 +149,20 @@ def recursive_feature_elimination(X, y, cv=5, save_path='rfecv_curve.png'):
     for i, (mean, std) in enumerate(zip(mean_scores, std_scores), start=1):
         print(f"{i} feature(s): F1 = {mean:.4f} ± {std:.4f}")
 
-    # Find the index of first global max with number of features = 3 if possible
-    # Otherwise fallback to global max (np.argmax)
-    target_features = 3
+    target_features = 3  # Aquí defines el número deseado donde quieres que esté el máximo
 
+    # Función que verifica si el valor en i es un máximo global desde esa posición en adelante
     def is_global_max_at(i, scores):
         val = scores[i]
         return all(val >= s for s in scores[i:])
 
     best_idx = None
+    # Intentar elegir el máximo global en target_features - 1 (índice 2 si target_features=3)
     for i in range(len(mean_scores)):
         if (i + 1) == target_features and is_global_max_at(i, mean_scores):
             best_idx = i
             break
+    # Si no hay máximo en target_features, elegir el máximo global absoluto
     if best_idx is None:
         best_idx = np.argmax(mean_scores)
 
@@ -186,7 +187,7 @@ def recursive_feature_elimination(X, y, cv=5, save_path='rfecv_curve.png'):
     ax.tick_params(axis='x', labelsize=18)
     ax.tick_params(axis='y', labelsize=18)
     ax.grid(True, linestyle='--', alpha=0.7)
-    ax.set_xlim(0, len(mean_scores))
+    ax.set_xlim(0, len(mean_scores) + 1)
     ax.legend(fontsize=18)
 
     plt.tight_layout()
@@ -196,6 +197,7 @@ def recursive_feature_elimination(X, y, cv=5, save_path='rfecv_curve.png'):
 
     return selected_features
 
+
 ###############################################################################
 # Run evaluations
 univariate_results = evaluate_features_univariate(X, y)
@@ -203,47 +205,97 @@ all_features_scores = evaluate_all_features(X, y)
 selected_features = recursive_feature_elimination(X, y)
 
 ###############################################################################
-# Select top 3 most important features based on model coefficients
-model = LogisticRegression(max_iter=1000, solver='liblinear', class_weight='balanced')
+# Train the multiclass logistic regression model
+model = LogisticRegression(max_iter=1000, solver='liblinear', class_weight='balanced', multi_class='ovr')
 model.fit(X[selected_features], y)
 
-coef_importance = np.abs(model.coef_[0])
-feature_importance = pd.Series(coef_importance, index=selected_features)
-top_features = feature_importance.nlargest(3).index
+# CLASS NORMOXIC ANALYSIS
+class_idx = 0  # target class for analysis
+coef_importance_0 = np.abs(model.coef_[class_idx])  # coefficients for class 0
+feature_importance_0 = pd.Series(coef_importance_0, index=selected_features)
+top_features_0 = feature_importance_0.nlargest(3).index
 
-print(f"\nTop 3 features (by model importance): {list(top_features)}")
+print(f"\nTop 3 features for class {class_idx} (by model importance): {list(top_features_0)}")
 
-X_top = X[top_features]
+X_top_0 = X[top_features_0]
 
-explainer = LimeTabularExplainer(
-    training_data = X_top.values,
-    feature_names = list(top_features),
-    class_names = list(np.unique(y).astype(str)),
-    mode = 'classification',
+# Refit model on top 3 features for class 0
+model.fit(X_top_0, y)
+
+# LIME explainer for class 0
+explainer_0 = LimeTabularExplainer(
+    training_data=X_top_0.values,
+    feature_names=list(top_features_0),
+    class_names=list(np.unique(y).astype(str)),
+    mode='classification',
     discretize_continuous=True,
     random_state=42
 )
 
-idx = 0
-sample = X_top.iloc[idx].values.reshape(1, -1)
+idx = 0  # index of the sample to explain
+sample_0 = X_top_0.iloc[idx].values.reshape(1, -1)
 
-model.fit(X_top, y)
-
-exp = explainer.explain_instance(
-    data_row = sample[0],
-    predict_fn = model.predict_proba,
-    num_features = 3
+exp_0 = explainer_0.explain_instance(
+    data_row=sample_0[0],
+    predict_fn=model.predict_proba,
+    num_features=3,
+    labels=[class_idx]
 )
 
-print("\nLIME explanation for sample index", idx)
-for feature, weight in exp.as_list():
+print(f"\nLIME explanation for sample index {idx}, class {class_idx}")
+for feature, weight in exp_0.as_list(label=class_idx):
     print(f"Feature: {feature:20} | Weight (local importance): {weight:.4f}")
 
-fig = exp.as_pyplot_figure()
+fig_0 = exp_0.as_pyplot_figure(label=class_idx)
 plt.xlabel('Weight', fontsize=20)
 plt.ylabel('Features', fontsize=20)
 plt.xticks(fontsize=20)
 plt.yticks(fontsize=20)
 plt.tight_layout()
-plt.savefig('lime_explanation_top3.png', dpi=300)
+plt.savefig(f'lime_explanation_class{class_idx}_top3.png', dpi=300)
+plt.show()
+
+# CLASS HIPOXIC ANALYSIS
+class_idx = 1  # target class for analysis
+coef_importance_2 = np.abs(model.coef_[class_idx])  
+feature_importance_2 = pd.Series(coef_importance_2, index=selected_features)
+top_features_2 = feature_importance_2.nlargest(3).index
+
+print(f"\nTop 3 features for class {class_idx} (by model importance): {list(top_features_2)}")
+
+X_top_2 = X[top_features_2]
+
+# Refit model on top 3 features for class 1
+model.fit(X_top_2, y)
+
+# LIME explainer for class 1
+explainer_2 = LimeTabularExplainer(
+    training_data=X_top_2.values,
+    feature_names=list(top_features_2),
+    class_names=list(np.unique(y).astype(str)),
+    mode='classification',
+    discretize_continuous=True,
+    random_state=42
+)
+
+sample_2 = X_top_2.iloc[idx].values.reshape(1, -1)
+
+exp_2 = explainer_2.explain_instance(
+    data_row=sample_2[0],
+    predict_fn=model.predict_proba,
+    num_features=3,
+    labels=[class_idx]
+)
+
+print(f"\nLIME explanation for sample index {idx}, class {class_idx}")
+for feature, weight in exp_2.as_list(label=class_idx):
+    print(f"Feature: {feature:20} | Weight (local importance): {weight:.4f}")
+
+fig_2 = exp_2.as_pyplot_figure(label=class_idx)
+plt.xlabel('Weight', fontsize=20)
+plt.ylabel('Features', fontsize=20)
+plt.xticks(fontsize=20)
+plt.yticks(fontsize=20)
+plt.tight_layout()
+plt.savefig(f'lime_explanation_class{class_idx}_top3.png', dpi=300)
 plt.show()
