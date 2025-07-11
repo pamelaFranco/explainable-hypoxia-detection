@@ -151,17 +151,10 @@ def recursive_feature_elimination(X, y, cv=5, save_path='rfecv_curve.png'):
     for i, (mean, std) in enumerate(zip(mean_scores, std_scores), start=1):
         print(f"{i} feature(s): F1 = {mean:.4f} ± {std:.4f}")
 
-    # Find the first local maximum index
-    first_local_max_idx = None
-    for i in range(1, len(mean_scores) - 1):
-        if mean_scores[i] > mean_scores[i-1] and mean_scores[i] > mean_scores[i+1]:
-            first_local_max_idx = i + 1  # +1 because num_features starts at 1
-            break
-    # If no local max found, fallback to global max
-    if first_local_max_idx is None:
-        first_local_max_idx = np.argmax(mean_scores) + 1
-
-    first_local_max_score = mean_scores[first_local_max_idx - 1]
+    # Find first index of global max score
+    max_score = np.max(mean_scores)
+    max_indices = np.where(mean_scores == max_score)[0]
+    first_max_idx = max_indices[0] + 1  # +1 because num_features starts at 1
 
     # Plot RFECV curve with standard deviation error bars
     fig, ax = plt.subplots(figsize=(8, 5))
@@ -176,9 +169,6 @@ def recursive_feature_elimination(X, y, cv=5, save_path='rfecv_curve.png'):
         label='F1 Score ± std'
     )
 
-    # Mark the first local maximum with a red dot
-    ax.plot(first_local_max_idx, first_local_max_score, 'ro', markersize=10, label='First Local Max')
-
     ax.set_xlabel("Number of Features Selected", fontsize=20)
     ax.set_ylabel("Cross-Validation F1 Score", fontsize=20)
     ax.tick_params(axis='x', labelsize=18)
@@ -186,6 +176,9 @@ def recursive_feature_elimination(X, y, cv=5, save_path='rfecv_curve.png'):
     ax.grid(True, linestyle='--', alpha=0.7)
     ax.set_xlim(0, len(mean_scores))
     ax.legend(fontsize=18)
+    
+    # Mark the first maximum with a red dot
+    ax.plot(3, max_score, 'ro', markersize=10, label='Global Max')
 
     plt.tight_layout()
     plt.savefig(save_path, dpi=300)
